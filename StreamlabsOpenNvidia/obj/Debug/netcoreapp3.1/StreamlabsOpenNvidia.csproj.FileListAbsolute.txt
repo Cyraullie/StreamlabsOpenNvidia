@@ -1,0 +1,13 @@
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\bin\Debug\netcoreapp3.1\StreamlabsOpenNvidia.exe
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\bin\Debug\netcoreapp3.1\StreamlabsOpenNvidia.deps.json
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\bin\Debug\netcoreapp3.1\StreamlabsOpenNvidia.runtimeconfig.json
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\bin\Debug\netcoreapp3.1\StreamlabsOpenNvidia.runtimeconfig.dev.json
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\bin\Debug\netcoreapp3.1\StreamlabsOpenNvidia.dll
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\bin\Debug\netcoreapp3.1\StreamlabsOpenNvidia.pdb
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\obj\Debug\netcoreapp3.1\StreamlabsOpenNvidia.csprojAssemblyReference.cache
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\obj\Debug\netcoreapp3.1\StreamlabsOpenNvidia.csproj.CoreCompileInputs.cache
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\obj\Debug\netcoreapp3.1\StreamlabsOpenNvidia.AssemblyInfoInputs.cache
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\obj\Debug\netcoreapp3.1\StreamlabsOpenNvidia.AssemblyInfo.cs
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\obj\Debug\netcoreapp3.1\StreamlabsOpenNvidia.dll
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\obj\Debug\netcoreapp3.1\StreamlabsOpenNvidia.pdb
+C:\Git\StreamlabsOpenNvidia\StreamlabsOpenNvidia\obj\Debug\netcoreapp3.1\StreamlabsOpenNvidia.genruntimeconfig.cache
